@@ -6,4 +6,3 @@ puts "   |   |   "
 puts "-----------"
 puts "   |   |   "
 end
-learn

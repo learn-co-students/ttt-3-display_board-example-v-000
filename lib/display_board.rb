@@ -2,10 +2,10 @@
 def display_board
   row = "   |" + "   |" + "   "
   lines = "-----------"
-  puts row
-  puts lines
-  puts row
-  puts lines
+  2.times do
+    puts row 
+    puts lines
+  end
   puts row
 end
 

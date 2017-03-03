@@ -2,5 +2,5 @@
 def display_board
     row = "   |   |  "
     divider = "-----------"
-    puts "#{row} \n#{divider}\n#{row} \n#{divider}\n#{row} \n "
+    puts "#{row} \n#{divider}\n#{row} \n#{divider}\n#{row} \n"
 end

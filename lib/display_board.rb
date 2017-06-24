@@ -5,3 +5,5 @@ def display_board
   puts row_2a=["-----------"]
   puts row_3=["   |   |   "]
 end
+puts "A Tic Tac Toe Board"
+puts display_board

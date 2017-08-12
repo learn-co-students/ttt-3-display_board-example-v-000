@@ -4,6 +4,7 @@ def display_board
   row_2 = ["   ","   ","   "]
   row_3 = ["   ","   ","   "]
   border = ["-----------"]
+
   print row_1[0]
   print "|"
   print row_1[1]

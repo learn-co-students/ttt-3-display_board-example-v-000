@@ -24,7 +24,6 @@ def display_board
   print row_3[1]
   print "|"
   puts row_3[2]
-
 end
 
 display_board()

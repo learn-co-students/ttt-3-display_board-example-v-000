@@ -2,5 +2,3 @@
 def display_board
   puts "A Tic Tac Toe Board"
 end
-expect(output).to include("   ")
-      expected "A Tic Tac Toe Board\n" to include "   "

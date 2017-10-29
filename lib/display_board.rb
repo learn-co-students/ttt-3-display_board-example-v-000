@@ -1,6 +1,3 @@
-def display_board
-  puts "A Tic Tac Toe Board"
-end
 def cell
   cell = "   "
 end
@@ -17,6 +14,7 @@ def board
 #{sep}
 #{row}"
 end
+
 def display_board
-  puts "#{board}"
+  puts board
 end

@@ -14,5 +14,3 @@ def display_board
    puts horizontal_divider
    puts rows
 end
-
-display_board

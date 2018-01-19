@@ -2,9 +2,9 @@
 learn
 def display_board
   puts " A Tic Tac Toe Board"
-  cell = '   "'
-  puts '+ cell'
   cell="   "
+  puts '+ cell'
+
   rowseperate="-----------"
   puts "#{cell}|#{cell}|#{cell}"
   puts "#{rowseperate}"

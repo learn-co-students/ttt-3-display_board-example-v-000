@@ -3,8 +3,6 @@ learn
 def display_board
 
   cell="   "
-
-
   rowseperate="-----------"
   puts "#{cell}|#{cell}|#{cell}"
   puts "#{rowseperate}"
@@ -12,3 +10,4 @@ def display_board
   puts "#{rowseperate}"
   puts "#{cell}|#{cell}|#{cell}"
 end
+display_board

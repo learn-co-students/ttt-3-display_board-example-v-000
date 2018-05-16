@@ -1,12 +1,7 @@
 def display_board
-  print "   |   |   \n"
-  print "-----------\n"
-  print "   |   |   \n"
-  print "-----------\n"
-  print "   |   |   \n"
+  puts "   |   |   "
+  puts "-----------"
+  puts "   |   |   "
+  puts "-----------"
+  puts "   |   |   "
 end
-print "   |   |   \n"
-print "-----------\n"
-print "   |   |   \n"
-print "-----------\n"
-print "   |   |   \n"

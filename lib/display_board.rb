@@ -1,10 +1,8 @@
-board = [" "," "," "," "," "," "," "," "," "]
-display_board
-
 def display_board
-puts row = [" ", " ", " ",]
-       -----------
-  row = [" ", " ", " ",]
-       -----------
-  row = [" ", " ", " ",]
+  puts "   |   |   "
+  puts "-----------"
+  puts "   |   |   "
+  puts "-----------"
+  puts "   |   |   "
 end
+display_board

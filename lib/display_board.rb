@@ -2,7 +2,9 @@
 header = "Welcome to Tic Tac Toe"
 header
 def display_board
-  puts "   |   |   \n-----------\n"  
-  puts "   |   |   \n-----------\n"
+  puts "   |   |   "
+  puts "-----------"
+  puts "   |   |   "
+  puts "-----------"
   puts "   |   |   "
 end

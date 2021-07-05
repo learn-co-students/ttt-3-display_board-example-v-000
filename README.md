@@ -1,4 +1,4 @@
-# Printing a Tic Tac Toe Board
+puts display_boardirb# Printing a Tic Tac Toe Board
 
 ## Overview
 
